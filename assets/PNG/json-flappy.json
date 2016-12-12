@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "Frame-1.png",
+	"frame": {"x":0,"y":0,"w":717,"h":610},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":717,"h":610},
+	"sourceSize": {"w":717,"h":610}
+},
+{
+	"filename": "frame-2.png",
+	"frame": {"x":717,"y":0,"w":717,"h":610},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":717,"h":610},
+	"sourceSize": {"w":717,"h":610}
+},
+{
+	"filename": "frame-3.png",
+	"frame": {"x":0,"y":610,"w":717,"h":610},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":717,"h":610},
+	"sourceSize": {"w":717,"h":610}
+},
+{
+	"filename": "frame-4.png",
+	"frame": {"x":717,"y":610,"w":717,"h":610},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":717,"h":610},
+	"sourceSize": {"w":717,"h":610}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "json-flappy.png",
+	"format": "RGBA8888",
+	"size": {"w":1434,"h":1220},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5eb0e2c84eaeed7316d9e71497ee96c9:a465ab1be3a5d41500203e434343b2e6:49d0c10ac781289aadc1c4371f753bf7$"
+}
+}
